@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta content='text/html; charset=UTF-8' http-equiv='Content-Type' />
+</head>
+<body>
+  <h1>Olá <%= @student.name %>,</h1>
+
+  <h4>Aqui está o seu ingresso para o evento:</h4>
+
+  <h4>Obrigado!</h4>
+  
+<%= image_tag attachments["ticket_#{@student.id}.png"].url %>
+
+
+</body>
+</html>
