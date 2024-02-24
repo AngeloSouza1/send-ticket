@@ -43,12 +43,9 @@ O projeto SendTicket é desenvolvido utilizando as seguintes tecnologias:
 
 #### Veja!
 
-
-<a href="https://sendticket.fly.dev/">
-    <img src="https://img.shields.io/badge/ACESSO O%20SITE!-darkgreen" alt="Site">
-</a>
-
-
+ <a href="https://vimeo.com/913288063/2276217852">
+    <img src="https://img.shields.io/badge/VÍDEO DE FUNCIONALIDADE%20-darkblue" alt="Site">
+ </a>
 
  ### 📋 Instalação
  Para executar a aplicação localmente em seu ambiente de desenvolvimento, siga estas etapas:
